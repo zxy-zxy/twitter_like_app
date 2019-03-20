@@ -1,8 +1,9 @@
-## Publisher Subscriber
+## Twitter-like app 
 
 This code is is referenced to [modernpython repo.](https://github.com/rhettinger/modernpython)
 
-Code implements a simple twitter-like app. The pubsub.py implements the data model and core services. 
+This is a concept of twitter-like application. Code implements publisher subscriber logic.
+The pubsub.py implements the data model and core services. 
 The session.py loads sample data. The app.py file runs a webserver for the application. 
 The views directory has the Bottle templates and the static directory 
 has the static resources (icons and photos).
